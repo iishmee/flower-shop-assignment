@@ -1,0 +1,45 @@
+.intro{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 600px;
+    width: 100%;
+    background-color: rgb(207, 154, 154);
+}
+.introcontainer{
+   padding: 50px;
+   height: 300px;
+   width: 400px;
+  
+   
+}
+.imagecontainer{
+    padding-right: 100px ;
+    padding-top: 100px;
+    height: 500px;
+    padding-bottom: 0px;
+}
+.head{
+    font-size: 50px;
+    color: maroon;
+}
+.button1{
+    background-color: rgb(207, 96, 96);
+    padding: 10px;
+    color: black;
+    border: 0px;
+    border-radius: 3px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.head2{
+    font-size: 40px;
+}
+.features{
+    font-size: 20px;
+}
+.feature{
+    text-align: center;
+    padding: 10px;
+    margin: 3px;
+}
