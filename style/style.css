@@ -140,7 +140,7 @@
     border: 0px;
 }
 .ihot{
-    padding: 500px;
+    padding: 300px;
 }
 .instagram{
     text-align: center;
@@ -160,4 +160,37 @@
 }
 .phot{
     font-size: 30px;
+}
+.foot{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 200px;
+    width: 100%;
+    padding: 100px;
+}
+.sfoot{
+    color: deeppink;
+}
+.dlast{
+    background-image: url("Rectangle 9.png");
+    background-repeat: no-repeat;
+    align-items: center;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    background-size: cover;
+    font-size: larger;
+}   
+.last{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.subscribe{
+    background-color: red;
+    padding: 5px;
+    border: 0px;
+    border-radius: 3px;
 }
