@@ -1,27 +1,31 @@
 .intro{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
     height: 600px;
     width: 100%;
     background-color: rgb(207, 154, 154);
+    padding: 100px;
 }
 .introcontainer{
-   padding: 50px;
-   height: 300px;
-   width: 400px;
+   padding: 500px;
+   height: 700px;
+   width: 100%;
   
    
 }
 .imagecontainer{
-    padding-right: 100px ;
+    padding-right: 500px ;
     padding-top: 100px;
-    height: 500px;
+    height: 700px;
     padding-bottom: 0px;
 }
 .head{
-    font-size: 50px;
+    font-size: 70px;
     color: maroon;
+}
+.phead{
+    font-size: 30px;
 }
 .button1{
     background-color: rgb(207, 96, 96);
@@ -80,5 +84,80 @@
     border-top-left-radius: 200px;
     margin: 10px;
     max-height: 90%;
-
  }
+ figure figcaption{
+    text-align: center;
+    color: darkred;
+ }
+ .services figure figcaption{
+    text-align: center;
+    color: darkred;
+ }
+ .services{
+    justify-content: center;
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 300px;
+    align-items: baseline;
+    border-spacing: 0px;
+    margin: 0%;
+ }
+ .i57{
+    border: 2px dashed rgb(143, 140, 141);
+    padding: 50px;
+    background-color: rgb(143, 140, 141);
+    margin: 0px;
+ }
+ .i58{
+    border: 2px dashed rgb(143, 140, 141);
+    padding: 50px;
+    background-color: rgb(143, 140, 141);
+    margin: 0px;
+ }
+ .i59{
+    border: 2px dashed rgb(143, 140, 141);
+    padding: 50px;
+    background-color: rgb(143, 140, 141);
+    margin: 0px;
+ }
+.off{
+    color: darkred;
+}
+.hot{
+    display: flex;
+    justify-content: center;
+    padding: 500px;
+    align-items: center;
+    height: 150px;
+    width: 100%;
+    background-color:pink ;
+}
+.button2{
+    background-color: rgb(231, 10, 84);
+    border-radius: 3px;
+    color: white;
+    border: 0px;
+}
+.ihot{
+    padding: 500px;
+}
+.instagram{
+    text-align: center;
+}
+.flowers4{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    height: 500px;
+    width: 100%;
+}
+.dhot{
+    height: 300px;
+}
+.hhot{
+    font-size: 70px;
+}
+.phot{
+    font-size: 30px;
+}
